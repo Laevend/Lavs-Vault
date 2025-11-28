@@ -1,0 +1,14 @@
+name: LavsVault
+version: 1.0
+main: coffee.laeven.lavsvault.LavsVault
+description: A plugin to allow the temporary removal and addition of any item or block. Primarily made for ArtualMC's SMP.
+authors:
+    - Laeven
+api-version: '1.21.10'
+load: STARTUP
+
+commands:
+    lavsvault:
+        description: Management of Lavs Vault
+        aliases: [lv]
+        permission: lv.commands.lavsvault
