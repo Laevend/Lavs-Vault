@@ -1,4 +1,4 @@
-# Lavs-Vault
+# Lavs Vault
 Lavs Vault (Laevens Vault) is a paper plugin that allows you to vault (remove) or unvault (add back) items/blocks in Minecraft (Including specific enchantments, potions, and tipped arrows).
 Items can be vaulted in 2 ways: 'cannot_obtain' and 'cannot_use'.
 When an item/block is vaulted under 'cannot_obtain', players will not be able to obtain this item/block, either naturally by finding it in the environment (breaking blocks), looting chests, or manufacturing it.
