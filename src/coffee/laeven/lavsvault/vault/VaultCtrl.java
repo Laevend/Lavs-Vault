@@ -495,7 +495,7 @@ public class VaultCtrl
 	}
 	
 	/**
-	 * Configurable values for pearl and riptide trident cooldown instances
+	 * Configurable values
 	 */
 	public static class Config implements Configurable
 	{
